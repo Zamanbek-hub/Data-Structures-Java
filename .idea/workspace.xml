@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b57c6235-dce8-4283-87d8-f6c707bdb81e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week11/Task1and2/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week11/Task1and2/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week11/Task3/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week11/Task3/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week12/Task1/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week12/Task1/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week12/Task1/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week12/Task2/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week12/Task2/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week12/Task2/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Week12/Task2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Week13/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Week13/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Week13/Short.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Week13/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Week13/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Week14/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Week14/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week11/Edge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week11/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week11/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week6.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week8.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week8.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week9.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/week10/HashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week1/com/company/week10/HashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Week11/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Week11/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week12/Task2/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week1/com/company/Week12/Task2/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week3/Task1/Vector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week1/com/company/Week3/Task1/Vector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week8/BinarySearchTree/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week1/com/company/Week8/BinarySearchTree/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/com/company/Week9/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week1/com/company/Week9/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Week12/Task2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Week12/Task2/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Week3/Task1/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Week3/Task1/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Week8/BinarySearchTree/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Week8/BinarySearchTree/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Week9/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Week9/main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main (4)">
+  <component name="RunManager" selected="Application.main">
     <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Week11.Task3.main" />
       <module name="week1" />
@@ -77,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Week12.Task1.main" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Week9.main" />
       <module name="week1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Week12.Task1.*" />
+          <option name="PATTERN" value="com.company.Week9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,46 +82,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Week12.Task2.main" />
-      <module name="week1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Week12.Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Week8.ExpressionTree.main" />
-      <module name="week1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Week8.ExpressionTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.week10.main" />
-      <module name="week1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.week10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Week11.Task1and2.main" />
       <module name="week1" />
       <extension name="coverage">
@@ -141,13 +95,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Week13.main" />
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Week13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Week8.BinarySearchTree.main" />
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Week8.BinarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main (4)" />
-        <item itemvalue="Application.main (2)" />
-        <item itemvalue="Application.main (1)" />
-        <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.main (2)" />
+        <item itemvalue="Application.main (5)" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main (3)" />
       </list>
     </recent_temporary>
   </component>

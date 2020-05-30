@@ -50,8 +50,8 @@ public class main {
         corona.addEdge(almaty,semey, 17);
         corona.addEdge(semey,nursultan, 6);
 
-        corona.DFT(almaty);
-        System.out.println();
+//        corona.DFT(almaty);
+//        System.out.println();
 //        corona.show(almaty);
         corona.corona_treatment(shymkent, 15);
     }

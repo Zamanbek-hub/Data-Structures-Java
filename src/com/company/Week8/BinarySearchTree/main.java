@@ -16,15 +16,26 @@ public class main {
 //        System.out.println("Root = " + Tree.getRoot().getData());
 //        Tree.delete(5);
 //        Tree.postOrder();
-        Tree.insert(7);
+//        Tree.insert(15);
+////        Tree.insert(8);
+////        Tree.insert(3);
+////        Tree.insert(12);
+////        Tree.insert(19);
+////        Tree.insert(17);
+////        Tree.insert(14);
+////        Tree.insert(10);
+        Tree.insert(10);
         Tree.insert(5);
-        Tree.insert(2);
-        Tree.insert(6);
-        Tree.insert(8);
         Tree.insert(1);
-        Tree.insert(4);
+        Tree.insert(7);
+        Tree.insert(15);
+        Tree.insert(12);
+        Tree.insert(20);
+        Tree.insert(14);
 
+//        Tree.inOrder();
         Tree.levelOrder();
+
 //        System.out.println("Yeaaaaaaaa");
 //        System.out.println("Root = " + Tree.getRoot().getData());
 ////        System.out.println(Tree.find(5).getData());

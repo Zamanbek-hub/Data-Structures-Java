@@ -16,7 +16,6 @@ public class Vector<T extends Comparable<T>>  {
         if(what)
             this.currentSize += 10;
         else {
-
             this.currentSize /= 2;
 //            System.out.println("currentsize = " + currentSize);
         }
